@@ -1,6 +1,6 @@
 {
     "name": "DogeShrek Tokens",
-    "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/dogeShrek.png?raw=true",
+    "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogeShrek.png",
     "keywords": [
         "DogeChain",
         "defi",
@@ -19,7 +19,7 @@
             "decimals": 18,
             "name": "DogeShrek",
             "symbol": "DogeShrek",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/dogeShrek.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogeShrek.png"
         },
         {
             "chainId": 2000,
@@ -27,7 +27,7 @@
             "decimals": 18,
             "name": "Wrapped Doge",
             "symbol": "WWDoge",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/addresses/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/addresses/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
         },
         {
             "chainId": 2000,
@@ -35,7 +35,7 @@
             "decimals": 18,
             "name": "Bourbon",
             "symbol": "BOURBON",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/bourbon.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/bourbon.png"
         },
         {
             "chainId": 2000,
@@ -43,7 +43,7 @@
             "decimals": 18,
             "name": "Dogechain Token",
             "symbol": "DC",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/dcToken.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dcToken.png"
         },
          {
             "chainId": 2000,
@@ -51,7 +51,7 @@
             "decimals": 9,
             "name": "Kibby",
             "symbol": "Kibby",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/kibby.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/kibby.png"
         },
         {
             "chainId": 2000,
@@ -59,7 +59,7 @@
             "decimals": 18,
             "name": "BabyKibby",
             "symbol": "BabyKibby",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/babykibby.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/babykibby.png"
         },
         {
             "chainId": 2000,
@@ -67,7 +67,7 @@
             "decimals": 18,
             "name": "Doge Astronauts",
             "symbol": "DogeAstro",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/dastro.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dastro.png"
         },
         {
             "chainId": 2000,
@@ -75,7 +75,7 @@
             "decimals": 9,
             "name": "Baby Baby Yoda",
             "symbol": "BBYoda",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/bbyoda.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/bbyoda.png"
         },
         {
             "chainId": 2000,
@@ -83,7 +83,7 @@
             "decimals": 18,
             "name": "Wojak Ass Token",
             "symbol": "WAT",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/wat.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/wat.png"
         },
         {
             "chainId": 2000,
@@ -91,7 +91,7 @@
             "decimals": 18,
             "name": "YODE",
             "symbol": "YODE",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/yode.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/yode.png"
         },
          {
             "chainId": 2000,
@@ -99,7 +99,7 @@
             "decimals": 18,
             "name": "Kibble",
             "symbol": "KIB",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/kib.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/kib.png"
         },
            {
             "chainId": 2000,
@@ -107,7 +107,7 @@
             "decimals": 18,
             "name": "PUP",
             "symbol": "PUP",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/pup.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/pup.png"
         },
         {
             "chainId": 2000,
@@ -115,7 +115,7 @@
             "decimals": 6,
             "name": "Tether USD",
             "symbol": "USDT",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/usdt.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/usdt.png"
         },
         {
             "chainId": 2000,
@@ -123,7 +123,7 @@
             "decimals": 6,
             "name": "USD Coin",
             "symbol": "USDC",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/usdc.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/usdc.png"
         },
          {
             "chainId": 2000,
@@ -131,7 +131,7 @@
             "decimals": 18,
             "name": "DogeCorn",
             "symbol": "DogeCorn",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/dogecorn.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogecorn.png"
         },
         {
             "chainId": 2000,
@@ -139,7 +139,7 @@
             "decimals": 18,
             "name": "Dai Stablecoin",
             "symbol": "DAI",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/dai.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dai.png"
         },
         {
             "chainId": 2000,
@@ -147,7 +147,7 @@
             "decimals": 18,
             "name": "Ethereum",
             "symbol": "ETH",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/eth.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/eth.png"
         },
         {
             "chainId": 2000,
@@ -155,7 +155,7 @@
             "decimals": 18,
             "name": "Wrapped Bitcoin",
             "symbol": "WBTC",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/wbtc.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/wbtc.png"
         },
         {
             "chainId": 2000,
@@ -163,7 +163,7 @@
             "decimals": 18,
             "name": "Doge Eat Doge",
             "symbol": "OMNOM",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/addresses/0xe3fcA919883950c5cD468156392a6477Ff5d18de/logo.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/addresses/0xe3fcA919883950c5cD468156392a6477Ff5d18de/logo.png"
         },
         {
             "chainId": 2000,
@@ -171,7 +171,7 @@
             "decimals": 9,
             "name": "OMDOGE",
             "symbol": "OM",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/omdoge.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/omdoge.png"
         },
         {
             "chainId": 2000,
@@ -179,7 +179,7 @@
             "decimals": 9,
             "name": "KONRA",
             "symbol": "KONRA",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/KONRA.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/KONRA.png"
         },
         {
             "chainId": 2000,
@@ -187,7 +187,7 @@
             "decimals": 18,
             "name": "BuddyEC",
             "symbol": "BDC",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/buddy.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/buddy.png"
         },
         {
             "chainId": 2000,
@@ -195,7 +195,7 @@
             "decimals": 18,
             "name": "DBXen Token on Dogechain",
             "symbol": "dcDXN",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/dxn.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dxn.png"
         },
         {
             "chainId": 2000,
@@ -203,7 +203,7 @@
             "decimals": 18,
             "name": "dcXEN",
             "symbol": "dcXEN",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/xen.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/xen.png"
         },
         {
             "chainId": 2000,
@@ -211,7 +211,7 @@
             "decimals": 18,
             "name": "DogeTools",
             "symbol": "DTools",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/dogetools.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogetools.png"
         },
         {
             "chainId": 2000,
@@ -219,7 +219,7 @@
             "decimals": 18,
             "name": "RadioShackToken",
             "symbol": "RADIO",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/radioshack.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/radioshack.png"
         },
         {
             "chainId": 2000,
@@ -227,7 +227,7 @@
             "decimals": 18,
             "name": "MATIC",
             "symbol": "MATIC",
-            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/matic.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/matic.png"
         }
         
         
