@@ -45,7 +45,7 @@
             "symbol": "DC",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dcToken.png"
         },
-         {
+        {
             "chainId": 2000,
             "address": "0x72aB1BAbED0502B08225FA1eF777fa673d82Ee3e",
             "decimals": 9,
@@ -101,7 +101,7 @@
             "symbol": "TDH",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/tdh.png"
         },
-         {
+        {
             "chainId": 2000,
             "address": "0x1e1026ba0810e6391b0F86AFa8A9305c12713B66",
             "decimals": 18,
@@ -109,7 +109,7 @@
             "symbol": "KIB",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/kib.png"
         },
-           {
+        {
             "chainId": 2000,
             "address": "0x769B1442f0FbAe3525647c9B81126F62f6A64Ff8",
             "decimals": 18,
@@ -133,7 +133,7 @@
             "symbol": "USDC",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/usdc.png"
         },
-         {
+        {
             "chainId": 2000,
             "address": "0x8df9B21945ebaa75424730F85eCFf426C35F5EF8",
             "decimals": 18,
@@ -237,9 +237,6 @@
             "symbol": "MATIC",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/matic.png"
         }
-        
-        
-
     ],
     "timestamp": "2023-07-08T12:00:00+00:00"
 }
