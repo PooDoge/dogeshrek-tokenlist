@@ -81,7 +81,7 @@
             "chainId": 2000,
             "address": "0xdd5e0f05680e7d4aeC462E9A60bc860d009c92c9",
             "decimals": 18,
-            "name": "Bojak Ass Token",
+            "name": "Wojak Ass Token",
             "symbol": "WAT",
             "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/wat.png?raw=true"
         },
@@ -183,6 +183,30 @@
         },
         {
             "chainId": 2000,
+            "address": "0x1Db10Fc7e7e4b5443f549cF53A53c5A4De4759ca",
+            "decimals": 18,
+            "name": "BuddyEC",
+            "symbol": "BDC",
+            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/buddy.png?raw=true"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xc418B123885d732ED042b16e12e259741863F723",
+            "decimals": 18,
+            "name": "DBXen Token on Dogechain",
+            "symbol": "dcDXN",
+            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/dxn.png?raw=true"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x948eed4490833D526688fD1E5Ba0b9B35CD2c32e",
+            "decimals": 18,
+            "name": "dcXEN",
+            "symbol": "dcXEN",
+            "logoURI": "https://github.com/PooDoge/dogeshrek-tokenlist/blob/main/tokens/xen.png?raw=true"
+        },
+        {
+            "chainId": 2000,
             "address": "0xB9fcAa7590916578087842e017078D7797Fa18D0",
             "decimals": 18,
             "name": "DogeTools",
@@ -209,5 +233,5 @@
         
 
     ],
-    "timestamp": "2023-07-03T12:00:00+00:00"
+    "timestamp": "2023-07-08T12:00:00+00:00"
 }
