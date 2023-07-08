@@ -93,6 +93,14 @@
             "symbol": "YODE",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/yode.png"
         },
+        {
+            "chainId": 2000,
+            "address": "0x35EA0c670eD9f54Ac07B648aCF0F2EB173A6012D",
+            "decimals": 18,
+            "name": "The Drugged Huskies",
+            "symbol": "TDH",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/tdh.png"
+        },
          {
             "chainId": 2000,
             "address": "0x1e1026ba0810e6391b0F86AFa8A9305c12713B66",
