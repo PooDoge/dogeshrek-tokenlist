@@ -119,6 +119,14 @@
         },
         {
             "chainId": 2000,
+            "address": "0x2f90907fD1DC1B7a484b6f31Ddf012328c2baB28",
+            "decimals": 18,
+            "name": "GRIMACE",
+            "symbol": "GRIMACE",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/grimace.png"
+        },
+        {
+            "chainId": 2000,
             "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
             "decimals": 6,
             "name": "Tether USD",
