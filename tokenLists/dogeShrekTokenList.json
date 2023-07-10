@@ -167,6 +167,14 @@
         },
         {
             "chainId": 2000,
+            "address": "0xbC35961aeaa610a57464063B605d25a3B7c0e7eB",
+            "decimals": 8,
+            "name": "HARU Token",
+            "symbol": "HARU",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/haru.png"
+        },
+        {
+            "chainId": 2000,
             "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
             "decimals": 18,
             "name": "Wrapped Bitcoin",
