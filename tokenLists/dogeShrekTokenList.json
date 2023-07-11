@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 14,
-        "minor": 0,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -252,7 +252,15 @@
             "name": "MATIC",
             "symbol": "MATIC",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/matic.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x3843034B1466D9641201EBac15A78C74ce0eE63A",
+            "decimals": 18,
+            "name": "SCAM",
+            "symbol": "SCAM (IGNORE)",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/scam.png"
         }
     ],
-    "timestamp": "2023-07-08T12:00:00+00:00"
+    "timestamp": "2023-07-11T12:00:00+00:00"
 }
