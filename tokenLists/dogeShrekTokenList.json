@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 14,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "tokens": [
@@ -215,6 +215,14 @@
         },
         {
             "chainId": 2000,
+            "address": "0x77BCD0c09B213dc940b97132cd0E969Ec483b623",
+            "decimals": 18,
+            "name": "BabyGrimace",
+            "symbol": "BabyGrimace",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/babygrimace.png"
+        },
+        {
+            "chainId": 2000,
             "address": "0xc418B123885d732ED042b16e12e259741863F723",
             "decimals": 18,
             "name": "DBXen Token on Dogechain",
@@ -254,5 +262,5 @@
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/matic.png"
         }
     ],
-    "timestamp": "2023-07-11T12:00:00+00:00"
+    "timestamp": "2023-07-12T12:00:00+00:00"
 }
