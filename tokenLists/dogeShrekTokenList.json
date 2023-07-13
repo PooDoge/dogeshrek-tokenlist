@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 14,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
     "tokens": [
@@ -260,7 +260,15 @@
             "name": "MATIC",
             "symbol": "MATIC",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/matic.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x1756333Ed621ED4e9858d74d98F63b56c043e1b5",
+            "decimals": 16,
+            "name": "NinjaHope",
+            "symbol": "NJH",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/njh.png"
         }
     ],
-    "timestamp": "2023-07-12T12:00:00+00:00"
+    "timestamp": "2023-07-13T12:00:00+00:00"
 }
