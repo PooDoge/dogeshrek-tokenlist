@@ -9,8 +9,8 @@
     ],
     "version": {
         "major": 14,
-        "minor": 6,
-        "patch": 9
+        "minor": 7,
+        "patch": 0
     },
     "tokens": [
         {
@@ -271,7 +271,7 @@
         },
         {
             "chainId": 2000,
-            "address": "0x1756333Ed621ED4e9858d74d98F63b56c043e1b5",
+            "address": "0x4400f1aC8dd5Cb6cdC6d854e241C92177EF3B197",
             "decimals": 9,
             "name": "Drugist",
             "symbol": "DGT",
