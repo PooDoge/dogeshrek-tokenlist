@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 14,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     },
     "tokens": [
@@ -276,7 +276,15 @@
             "name": "Drugist",
             "symbol": "DGT",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dgt.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xA6D7137aF64280e3eb8715aB6766740984Dd35E7",
+            "decimals": 9,
+            "name": "FuckPepe",
+            "symbol": "FuckPepe",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/fuckpepe.png"
         }
     ],
-    "timestamp": "2023-07-13T12:15:00+00:00"
+    "timestamp": "2023-07-15T12:15:00+00:00"
 }
