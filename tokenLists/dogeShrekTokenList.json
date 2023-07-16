@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 15,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
@@ -294,5 +294,5 @@
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/raingod.png"
         }
     ],
-    "timestamp": "2023-07-16T12:15:00+00:00"
+    "timestamp": "2023-07-16T12:16:00+00:00"
 }
