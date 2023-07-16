@@ -8,8 +8,8 @@
         "bridge"
     ],
     "version": {
-        "major": 14,
-        "minor": 9,
+        "major": 15,
+        "minor": 0,
         "patch": 0
     },
     "tokens": [
@@ -284,7 +284,15 @@
             "name": "FuckPepe",
             "symbol": "FuckPepe",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/fuckpepe.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x1174D0b9Cfc32f8c39884B226db43697a9Ad541d",
+            "decimals": 18,
+            "name": "RainGod",
+            "symbol": "RainGod",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/raingod.png"
         }
     ],
-    "timestamp": "2023-07-15T12:15:00+00:00"
+    "timestamp": "2023-07-16T12:15:00+00:00"
 }
