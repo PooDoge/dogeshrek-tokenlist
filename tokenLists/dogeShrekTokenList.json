@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 15,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -292,6 +292,22 @@
             "name": "RainGod",
             "symbol": "RainGod",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/raingod.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x2cAE51F077A795dedA55ecF89a24dA15dE16F614",
+            "decimals": 18,
+            "name": "Get",
+            "symbol": "Get",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/get.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x5Cc1D860c0D1A695912E5aEDc5Cf3ccf5AF83ECa",
+            "decimals": 18,
+            "name": "Lit",
+            "symbol": "Lit",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/lit.png"
         }
     ],
     "timestamp": "2023-07-16T12:16:00+00:00"
