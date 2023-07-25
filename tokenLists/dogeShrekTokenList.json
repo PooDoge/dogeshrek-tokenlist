@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 15,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tokens": [
@@ -308,7 +308,15 @@
             "name": "Lit",
             "symbol": "Lit",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/lit.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x3ABde71C12b7F34BC33D7D2c5F3236393Eac7880",
+            "decimals": 18,
+            "name": "X",
+            "symbol": "X",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/xtoken.png"
         }
     ],
-    "timestamp": "2023-07-16T12:16:00+00:00"
+    "timestamp": "2023-07-24T12:00:00+00:00"
 }
