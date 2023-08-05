@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 15,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
     "tokens": [
@@ -316,7 +316,23 @@
             "name": "X",
             "symbol": "X",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/xtoken.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x1d76c42b63d42ce2df538e465e725dd8ba4c4653",
+            "decimals": 18,
+            "name": "NiKonra",
+            "symbol": "NiKonra",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/nikonra.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x3b5400556ae6f31555669e6447edd1a8b2a4c427",
+            "decimals": 18,
+            "name": "Happy Coin",
+            "symbol": "HC",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/hctoken.png"
         }
     ],
-    "timestamp": "2023-07-24T12:00:00+00:00"
+    "timestamp": "2023-08-05T12:00:00+00:00"
 }
