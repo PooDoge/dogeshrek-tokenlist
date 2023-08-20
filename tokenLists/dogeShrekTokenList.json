@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 15,
-        "minor": 4,
+        "minor": 6,
         "patch": 0
     },
     "tokens": [
@@ -207,14 +207,6 @@
         },
         {
             "chainId": 2000,
-            "address": "0x1Db10Fc7e7e4b5443f549cF53A53c5A4De4759ca",
-            "decimals": 18,
-            "name": "BuddyEC",
-            "symbol": "BDC",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/buddy.png"
-        },
-        {
-            "chainId": 2000,
             "address": "0x77BCD0c09B213dc940b97132cd0E969Ec483b623",
             "decimals": 18,
             "name": "BabyGrimace",
@@ -271,14 +263,6 @@
         },
         {
             "chainId": 2000,
-            "address": "0x4400f1aC8dd5Cb6cdC6d854e241C92177EF3B197",
-            "decimals": 9,
-            "name": "Drugist",
-            "symbol": "DGT",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dgt.png"
-        },
-        {
-            "chainId": 2000,
             "address": "0xA6D7137aF64280e3eb8715aB6766740984Dd35E7",
             "decimals": 9,
             "name": "FuckPepe",
@@ -332,7 +316,15 @@
             "name": "Happy Coin",
             "symbol": "HC",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/hctoken.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x3b5400556ae6f31555669e6447edd1a8b2a4c427",
+            "decimals": 18,
+            "name": "EVE",
+            "symbol": "EVE",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/evecoin.png"
         }
     ],
-    "timestamp": "2023-08-05T12:00:00+00:00"
+    "timestamp": "2023-08-18T12:00:00+00:00"
 }
