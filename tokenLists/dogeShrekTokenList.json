@@ -207,6 +207,14 @@
         },
         {
             "chainId": 2000,
+            "address": "0x1Db10Fc7e7e4b5443f549cF53A53c5A4De4759ca",
+            "decimals": 18,
+            "name": "BuddyEC",
+            "symbol": "BDC",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/buddy.png"
+        },
+        {
+            "chainId": 2000,
             "address": "0x77BCD0c09B213dc940b97132cd0E969Ec483b623",
             "decimals": 18,
             "name": "BabyGrimace",
@@ -260,6 +268,14 @@
             "name": "NinjaHope",
             "symbol": "NJH",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/njh.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x4400f1aC8dd5Cb6cdC6d854e241C92177EF3B197",
+            "decimals": 9,
+            "name": "Drugist",
+            "symbol": "DGT",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dgt.png"
         },
         {
             "chainId": 2000,
@@ -319,12 +335,36 @@
         },
         {
             "chainId": 2000,
-            "address": "0x3b5400556ae6f31555669e6447edd1a8b2a4c427",
+            "address": "0x70acE47D53A8A2C8BfB6b4e5755291570D2449A3",
             "decimals": 18,
-            "name": "EVE",
+            "name": "EVE Much Love Price",
             "symbol": "EVE",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/evecoin.png"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/eve.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0xA4029b74FBA366c926eDFA7Dd10B21C621170a4c",
+            "decimals": 18,
+            "name": "Wrapped BONE",
+            "symbol": "WBONE",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/wbone.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x9B805f3FacA05C505C84D82D46121A861587C37B",
+            "decimals": 18,
+            "name": "EndlessWebWorlds Test",
+            "symbol": "EWW",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/eww.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x495eea66B0f8b636D441dC6a98d8F5C3D455C4c0",
+            "decimals": 18,
+            "name": "Shiba Inu",
+            "symbol": "SHIB",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/shib.png"
         }
     ],
-    "timestamp": "2023-08-18T12:00:00+00:00"
+    "timestamp": "2023-08-27T12:20:00+00:00"
 }
