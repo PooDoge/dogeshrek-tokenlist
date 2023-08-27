@@ -332,6 +332,14 @@
             "name": "Happy Coin",
             "symbol": "HC",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/hctoken.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x70acE47D53A8A2C8BfB6b4e5755291570D2449A3",
+            "decimals": 18,
+            "name": "EVE Much Love Price",
+            "symbol": "EVE",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/eve.png"
         }
     ],
     "timestamp": "2023-08-05T12:00:00+00:00"
