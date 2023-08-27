@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 15,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
     "tokens": [
@@ -340,7 +340,31 @@
             "name": "EVE Much Love Price",
             "symbol": "EVE",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/eve.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0xA4029b74FBA366c926eDFA7Dd10B21C621170a4c",
+            "decimals": 18,
+            "name": "Wrapped BONE",
+            "symbol": "WBONE",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/wbone.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x9B805f3FacA05C505C84D82D46121A861587C37B",
+            "decimals": 18,
+            "name": "EndlessWebWorlds Test",
+            "symbol": "EWW",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/eww.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x495eea66B0f8b636D441dC6a98d8F5C3D455C4c0",
+            "decimals": 18,
+            "name": "Shiba Inu",
+            "symbol": "SHIB",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/shib.png"
         }
     ],
-    "timestamp": "2023-08-27T12:00:00+00:00"
+    "timestamp": "2023-08-27T12:01:00+00:00"
 }
