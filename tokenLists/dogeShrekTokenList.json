@@ -7,9 +7,27 @@
         "Doge",
         "bridge"
     ],
+    "tags": {
+        "stablecoin": {
+            "name": "Stablecoin",
+            "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+        },
+        "ecosystem": {
+            "name": "Chewy Ecosystem",
+            "description": "ChewySwap Ecosystem Tokens, Safu"
+        },
+        "dogeshrek": {
+            "name": "Dogeshrek Ecosystem",
+            "description": "Dogeshrek Ecosystem Tokens, Safu"
+        },
+        "safu": {
+            "name": "Safu",
+            "description": "Safu tokens with burnt LP Vetted by team"
+        }
+    },
     "version": {
         "major": 15,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     },
     "tokens": [
@@ -19,7 +37,10 @@
             "decimals": 18,
             "name": "DogeShrek",
             "symbol": "DogeShrek",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogeShrek.png"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogeShrek.png",
+            "tags": [
+                "dogeshrek"
+            ]
         },
         {
             "chainId": 2000,
@@ -31,19 +52,14 @@
         },
         {
             "chainId": 2000,
-            "address": "0x44aA2dfe660439E9a93483EC665Bf20dE62CEc2B",
-            "decimals": 18,
-            "name": "Bourbon",
-            "symbol": "BOURBON",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/bourbon.png"
-        },
-        {
-            "chainId": 2000,
             "address": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
             "decimals": 18,
             "name": "Dogechain Token",
             "symbol": "DC",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dcToken.png"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dcToken.png",
+            "tags": [
+                "safu"
+            ]
         },
         {
             "chainId": 2000,
@@ -51,7 +67,10 @@
             "decimals": 9,
             "name": "Kibby",
             "symbol": "Kibby",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/kibby.png"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/kibby.png",
+            "tags": [
+                "safu"
+            ]
         },
         {
             "chainId": 2000,
@@ -99,7 +118,10 @@
             "decimals": 18,
             "name": "The Drugged Huskies",
             "symbol": "TDH",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/tdh.png"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/tdh.png",
+            "tags": [
+                "safu"
+            ]
         },
         {
             "chainId": 2000,
@@ -147,7 +169,10 @@
             "decimals": 18,
             "name": "DogeCorn",
             "symbol": "DogeCorn",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogecorn.png"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogecorn.png",
+            "tags": [
+                "dogeshrek"
+            ]
         },
         {
             "chainId": 2000,
@@ -204,14 +229,6 @@
             "name": "KONRA",
             "symbol": "KONRA",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/KONRA.png"
-        },
-        {
-            "chainId": 2000,
-            "address": "0x1Db10Fc7e7e4b5443f549cF53A53c5A4De4759ca",
-            "decimals": 18,
-            "name": "BuddyEC",
-            "symbol": "BDC",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/buddy.png"
         },
         {
             "chainId": 2000,
@@ -342,5 +359,5 @@
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/eve.png"
         }
     ],
-    "timestamp": "2023-08-27T12:25:00+00:00"
+    "timestamp": "2023-08-27T12:30:00+00:00"
 }
