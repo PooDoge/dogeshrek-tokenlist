@@ -27,7 +27,7 @@
     },
     "version": {
         "major": 15,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     },
     "tokens": [
@@ -125,43 +125,11 @@
         },
         {
             "chainId": 2000,
-            "address": "0x1e1026ba0810e6391b0F86AFa8A9305c12713B66",
-            "decimals": 18,
-            "name": "Kibble",
-            "symbol": "KIB",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/kib.png"
-        },
-        {
-            "chainId": 2000,
-            "address": "0x769B1442f0FbAe3525647c9B81126F62f6A64Ff8",
-            "decimals": 18,
-            "name": "PUP",
-            "symbol": "PUP",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/pup.png"
-        },
-        {
-            "chainId": 2000,
             "address": "0x2f90907fD1DC1B7a484b6f31Ddf012328c2baB28",
             "decimals": 18,
             "name": "GRIMACE",
             "symbol": "GRIMACE",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/grimace.png"
-        },
-        {
-            "chainId": 2000,
-            "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
-            "decimals": 6,
-            "name": "Tether USD",
-            "symbol": "USDT",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/usdt.png"
-        },
-        {
-            "chainId": 2000,
-            "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
-            "decimals": 6,
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/usdc.png"
         },
         {
             "chainId": 2000,
@@ -200,27 +168,11 @@
         },
         {
             "chainId": 2000,
-            "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
-            "decimals": 18,
-            "name": "Wrapped Bitcoin",
-            "symbol": "WBTC",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/wbtc.png"
-        },
-        {
-            "chainId": 2000,
             "address": "0xe3fcA919883950c5cD468156392a6477Ff5d18de",
             "decimals": 18,
             "name": "Doge Eat Doge",
             "symbol": "OMNOM",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/addresses/0xe3fcA919883950c5cD468156392a6477Ff5d18de/logo.png"
-        },
-        {
-            "chainId": 2000,
-            "address": "0x832108d07e0d0a68042051827C3DB5bA31BeDE40",
-            "decimals": 9,
-            "name": "OMDOGE",
-            "symbol": "OM",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/omdoge.png"
         },
         {
             "chainId": 2000,
@@ -264,14 +216,6 @@
         },
         {
             "chainId": 2000,
-            "address": "0x4e2a57A8ffE65F794e9A32637Bc67b502fFc84C6",
-            "decimals": 18,
-            "name": "RadioShackToken",
-            "symbol": "RADIO",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/radioshack.png"
-        },
-        {
-            "chainId": 2000,
             "address": "0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98",
             "decimals": 18,
             "name": "MATIC",
@@ -285,14 +229,6 @@
             "name": "NinjaHope",
             "symbol": "NJH",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/njh.png"
-        },
-        {
-            "chainId": 2000,
-            "address": "0x4400f1aC8dd5Cb6cdC6d854e241C92177EF3B197",
-            "decimals": 9,
-            "name": "Drugist",
-            "symbol": "DGT",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dgt.png"
         },
         {
             "chainId": 2000,
@@ -357,7 +293,15 @@
             "name": "EVE Much Love Price",
             "symbol": "EVE",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/eve.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x9B362DD033cE0796A589Bc22c93a27893f14a4A2",
+            "decimals": 18,
+            "name": "Doge1",
+            "symbol": "DOGE1",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/doge1.png"
         }
     ],
-    "timestamp": "2023-08-27T12:30:00+00:00"
+    "timestamp": "2023-09-06T12:30:00+00:00"
 }
