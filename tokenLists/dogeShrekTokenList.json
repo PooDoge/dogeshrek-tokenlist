@@ -301,7 +301,15 @@
             "name": "Doge1",
             "symbol": "DOGE1",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/doge1.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xABE076BB8576Aaa78EeE16d57823C4784DC6657b",
+            "decimals": 18,
+            "name": "DogeFiona",
+            "symbol": "FIONA",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/fiona.png"
         }
     ],
-    "timestamp": "2023-09-06T12:31:00+00:00"
+    "timestamp": "2023-09-08T12:31:00+00:00"
 }
