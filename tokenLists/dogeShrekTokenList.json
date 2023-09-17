@@ -23,11 +23,15 @@
         "safu": {
             "name": "Safu",
             "description": "Safu tokens with burnt LP Vetted by team"
+        },
+        "locap": {
+            "name": "LoCap",
+            "description": "Low market cap token may have high price impact"
         }
     },
     "version": {
         "major": 15,
-        "minor": 10,
+        "minor": 11,
         "patch": 0
     },
     "tokens": [
@@ -309,7 +313,18 @@
             "name": "DogeFiona",
             "symbol": "FIONA",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/fiona.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xF99d5d3C2D87d6e2cc25Cb4C900a02EdfCd84B49",
+            "decimals": 18,
+            "name": "OMNOMX",
+            "symbol": "OMNOMX",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/omnomx.png",
+            "tags": [
+                "locap"
+            ]
         }
     ],
-    "timestamp": "2023-09-08T12:31:00+00:00"
+    "timestamp": "2023-09-17T12:31:00+00:00"
 }
