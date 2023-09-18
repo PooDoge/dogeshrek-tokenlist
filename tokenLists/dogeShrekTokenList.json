@@ -31,7 +31,7 @@
     },
     "version": {
         "major": 15,
-        "minor": 12,
+        "minor": 13,
         "patch": 0
     },
     "tokens": [
@@ -353,7 +353,18 @@
             "tags": [
                 "locap"
             ]
+        },
+        {
+            "chainId": 2000,
+            "address": "0xE7163AC9AEef2D59748E7190e5fc948699ef8DD9",
+            "decimals": 8,
+            "name": "pepe",
+            "symbol": "pepe",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/pepe.png",
+            "tags": [
+                "locap"
+            ]
         }
     ],
-    "timestamp": "2023-09-17T12:33:00+00:00"
+    "timestamp": "2023-09-17T12:35:00+00:00"
 }
