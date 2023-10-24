@@ -31,7 +31,7 @@
     },
     "version": {
         "major": 15,
-        "minor": 13,
+        "minor": 14,
         "patch": 0
     },
     "tokens": [
@@ -86,14 +86,6 @@
             "tags": [
                 "locap"
             ]
-        },
-        {
-            "chainId": 2000,
-            "address": "0x6ceeD11D4A1C1D8f561F240B38850B37Ad5fb3ce",
-            "decimals": 18,
-            "name": "Doge Astronauts",
-            "symbol": "DogeAstro",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dastro.png"
         },
         {
             "chainId": 2000,
@@ -282,17 +274,6 @@
         },
         {
             "chainId": 2000,
-            "address": "0x3ABde71C12b7F34BC33D7D2c5F3236393Eac7880",
-            "decimals": 18,
-            "name": "X",
-            "symbol": "X",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/xtoken.png",
-            "tags": [
-                "locap"
-            ]
-        },
-        {
-            "chainId": 2000,
             "address": "0x1d76c42b63d42ce2df538e465e725dd8ba4c4653",
             "decimals": 18,
             "name": "NiKonra",
@@ -304,33 +285,11 @@
         },
         {
             "chainId": 2000,
-            "address": "0x3b5400556ae6f31555669e6447edd1a8b2a4c427",
-            "decimals": 18,
-            "name": "Happy Coin",
-            "symbol": "HC",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/hctoken.png",
-            "tags": [
-                "locap"
-            ]
-        },
-        {
-            "chainId": 2000,
             "address": "0x70acE47D53A8A2C8BfB6b4e5755291570D2449A3",
             "decimals": 18,
             "name": "EVE Much Love Price",
             "symbol": "EVE",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/eve.png"
-        },
-        {
-            "chainId": 2000,
-            "address": "0x9B362DD033cE0796A589Bc22c93a27893f14a4A2",
-            "decimals": 18,
-            "name": "Doge1",
-            "symbol": "DOGE1",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/doge1.png",
-            "tags": [
-                "locap"
-            ]
         },
         {
             "chainId": 2000,
@@ -366,5 +325,5 @@
             ]
         }
     ],
-    "timestamp": "2023-09-17T12:35:00+00:00"
+    "timestamp": "2023-10-23T12:35:00+00:00"
 }
