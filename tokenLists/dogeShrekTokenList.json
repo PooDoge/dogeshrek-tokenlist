@@ -285,14 +285,6 @@
         },
         {
             "chainId": 2000,
-            "address": "0x70acE47D53A8A2C8BfB6b4e5755291570D2449A3",
-            "decimals": 18,
-            "name": "EVE Much Love Price",
-            "symbol": "EVE",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/eve.png"
-        },
-        {
-            "chainId": 2000,
             "address": "0xABE076BB8576Aaa78EeE16d57823C4784DC6657b",
             "decimals": 18,
             "name": "DogeFiona",
