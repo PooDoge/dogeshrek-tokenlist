@@ -31,8 +31,8 @@
     },
     "version": {
         "major": 15,
-        "minor": 14,
-        "patch": 0
+        "minor": 15,
+        "patch": 1
     },
     "tokens": [
         {
@@ -323,7 +323,18 @@
             "tags": [
                 "locap"
             ]
+        },
+        {
+            "chainId": 2000,
+            "address": "0x539Cf28f180382E5f806c8DFd6Bb9c9FA4331c8c",
+            "decimals": 18,
+            "name": "Aubergine",
+            "symbol": "🍆",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/aubergine.png",
+            "tags": [
+                "locap"
+            ]
         }
     ],
-    "timestamp": "2023-10-23T12:35:00+00:00"
+    "timestamp": "2023-12-16T12:35:00+00:00"
 }
