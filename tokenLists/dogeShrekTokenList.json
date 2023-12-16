@@ -329,7 +329,7 @@
             "address": "0x539Cf28f180382E5f806c8DFd6Bb9c9FA4331c8c",
             "decimals": 18,
             "name": "Aubergine",
-            "symbol": "🍆",
+            "symbol": "Aubergine",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/aubergine.png",
             "tags": [
                 "locap"
