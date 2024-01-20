@@ -31,8 +31,8 @@
     },
     "version": {
         "major": 15,
-        "minor": 16,
-        "patch": 2
+        "minor": 17,
+        "patch": 3
     },
     "tokens": [
         {
@@ -334,7 +334,18 @@
             "tags": [
                 "locap"
             ]
+        },
+        {
+            "chainId": 2000,
+            "address": "0xc2e669c5c2F19203Da99cE6a81B01Fb941e248C1",
+            "decimals": 18,
+            "name": "MASON",
+            "symbol": "MASON",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/mason.png",
+            "tags": [
+                "locap"
+            ]
         }
     ],
-    "timestamp": "2023-12-16T12:36:00+00:00"
+    "timestamp": "2024-01-20T12:36:00+00:00"
 }
