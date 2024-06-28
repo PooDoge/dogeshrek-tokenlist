@@ -1,10 +1,11 @@
+
 {
-    "name": "DogeShrek Tokens",
-    "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogeShrek.png",
+    "name": "Dogeshrek Tokens",
+    "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/chewy.png",
     "keywords": [
-        "DogeChain",
-        "defi",
-        "Doge",
+        "Shibarium",
+        "DeFi",
+        "BONE",
         "bridge"
     ],
     "tags": {
@@ -24,15 +25,47 @@
             "name": "Safu",
             "description": "Safu tokens with burnt LP Vetted by team"
         },
+        "eco": {
+            "name": "Eco",
+            "description": "ChewySwap Ecosystem Tokens"
+        },
+        "eco2": {
+            "name": "DEX",
+            "description": "ChewySwap DEX Token"
+        },
+        "meta": {
+            "name": "Gaming",
+            "description": "Gaming and Metaverse Tokens"
+        },
+        "partner": {
+            "name": "Partner",
+            "description": "Partner Project Tokens"
+        },
         "locap": {
             "name": "LoCap",
             "description": "Low market cap token may have high price impact"
+        },
+        "dividend": {
+            "name": "Dividend",
+            "description": "Tokens that pay rewards in another token"
+        },
+        "bridge": {
+            "name": "Bridged",
+            "description": "Tokens bridged from Ethereum"
+        },
+        "meme": {
+            "name": "Memecoin",
+            "description": "Memecoin Token"
+        },
+        "doginal": {
+            "name": "Doginals",
+            "description": "Doginal inscriptions bridged from Dogecoin network"
         }
     },
     "version": {
-        "major": 16,
-        "minor": 17,
-        "patch": 3
+        "major": 1,
+        "minor": 52,
+        "patch": 15
     },
     "tokens": [
         {
@@ -51,9 +84,28 @@
             "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
             "decimals": 18,
             "name": "Wrapped Doge",
-            "symbol": "WWDoge",
+            "symbol": "WWDOGE",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/addresses/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
         },
+        {
+            "chainId": 2000,
+            "address": "0xD5CFDb92446d52212Db06Cb941B21e5711aeedc7",
+            "decimals": 18,
+            "name": "armz",
+            "symbol": "armz",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/armz.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xD95086Fe465a2DC59F989B927472a901E2e05ff2",
+            "decimals": 18,
+            "name": "USDoge Experimental Release",
+            "symbol": "USDO",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/usdo.png"
+        },
+        {
+
+        }
         {
             "chainId": 2000,
             "address": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
@@ -71,10 +123,7 @@
             "decimals": 9,
             "name": "Kibby",
             "symbol": "Kibby",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/kibby.png",
-            "tags": [
-                "safu"
-            ]
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/kibby.png"
         },
         {
             "chainId": 2000,
@@ -111,6 +160,17 @@
         },
         {
             "chainId": 2000,
+            "address": "0xf17A4142FF9438b4f2bC09207f7216D5301B6a1E",
+            "decimals": 18,
+            "name": "Molly",
+            "symbol": "Molly",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/strawberry.png",
+            "tags": [
+                "locap"
+            ]
+        },
+        {
+            "chainId": 2000,
             "address": "0x35EA0c670eD9f54Ac07B648aCF0F2EB173A6012D",
             "decimals": 18,
             "name": "The Drugged Huskies",
@@ -119,14 +179,6 @@
             "tags": [
                 "safu"
             ]
-        },
-        {
-            "chainId": 2000,
-            "address": "0x2f90907fD1DC1B7a484b6f31Ddf012328c2baB28",
-            "decimals": 18,
-            "name": "GRIMACE",
-            "symbol": "GRIMACE",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/grimace.png"
         },
         {
             "chainId": 2000,
@@ -157,11 +209,19 @@
         },
         {
             "chainId": 2000,
-            "address": "0xbC35961aeaa610a57464063B605d25a3B7c0e7eB",
-            "decimals": 8,
-            "name": "HARU Token",
-            "symbol": "HARU",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/haru.png"
+            "address": "0xe3fcA919883950c5cD468156392a6477Ff5d18de",
+            "decimals": 18,
+            "name": "Doge Eat Doge",
+            "symbol": "OMNOM",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/addresses/0xe3fcA919883950c5cD468156392a6477Ff5d18de/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x3f4aE49EABEa4cc250a640eEa788a321C0AE7EB2",
+            "decimals": 18,
+            "name": "Poo Doge",
+            "symbol": "PooDoge",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/poodoge.png"
         },
         {
             "chainId": 2000,
@@ -203,22 +263,19 @@
         },
         {
             "chainId": 2000,
+            "address": "0x8a764cF73438dE795c98707B07034e577Af54825",
+            "decimals": 18,
+            "name": "Doge Inu",
+            "symbol": "DINU",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/dinu.png"
+        },
+        {
+            "chainId": 2000,
             "address": "0xB9fcAa7590916578087842e017078D7797Fa18D0",
             "decimals": 18,
             "name": "DogeTools",
             "symbol": "DTools",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogetools.png"
-        },
-        {
-            "chainId": 2000,
-            "address": "0x1756333Ed621ED4e9858d74d98F63b56c043e1b5",
-            "decimals": 16,
-            "name": "NinjaHope",
-            "symbol": "NJH",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/njh.png",
-            "tags": [
-                "locap"
-            ]
         },
         {
             "chainId": 2000,
@@ -277,14 +334,6 @@
         },
         {
             "chainId": 2000,
-            "address": "0x70acE47D53A8A2C8BfB6b4e5755291570D2449A3",
-            "decimals": 18,
-            "name": "EVE Much Love Price",
-            "symbol": "EVE",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/eve.png"
-        },
-        {
-            "chainId": 2000,
             "address": "0xABE076BB8576Aaa78EeE16d57823C4784DC6657b",
             "decimals": 18,
             "name": "DogeFiona",
@@ -328,16 +377,245 @@
             ]
         },
         {
-            "chainId": 2000,
-            "address": "0xc2e669c5c2F19203Da99cE6a81B01Fb941e248C1",
+            "chainId": 109,
+            "address": "0xC76F4c819D820369Fb2d7C1531aB3Bb18e6fE8d8",
             "decimals": 18,
-            "name": "MASON",
-            "symbol": "MASON",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/mason.png",
+            "name": "Wrapped BONE",
+            "symbol": "WBONE",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/wbone.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x5Bc161445f32170653eB61bdeCf80c9D7F5C345a",
+            "decimals": 9,
+            "name": "Pooshi",
+            "symbol": "POOSHI",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/pooshi.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x2761723006d3Eb0d90B19B75654DbE543dcd974f",
+            "decimals": 18,
+            "name": "ChewySwap",
+            "symbol": "CHEWY",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/chewy.png",
             "tags": [
-                "locap"
+                "eco2"
+            ]
+        },
+        {
+            "chainId": 109,
+            "address": "0x8ed7d143Ef452316Ab1123d28Ab302dC3b80d3ce",
+            "decimals": 18,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/eth.png",
+            "tags": [
+                "bridge"
+            ]
+        },
+        {
+            "chainId": 109,
+            "address": "0xaB082b8ad96c7f47ED70ED971Ce2116469954cFB",
+            "decimals": 6,
+            "name": "Tether",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/usdt.png",
+            "tags": [
+                "bridge"
+            ]
+        },
+        {
+            "chainId": 109,
+            "address": "0x495eea66B0f8b636D441dC6a98d8F5C3D455C4c0",
+            "decimals": 18,
+            "name": "Shiba Inu",
+            "symbol": "SHIB",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shib.png",
+            "tags": [
+                "bridge"
+            ]
+        },
+        {
+            "chainId": 109,
+            "address": "0xD2e9e1a41E97912F3f966A3553E4C9Bb6861f0a6",
+            "decimals": 18,
+            "name": "BARK",
+            "symbol": "BARK",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/bark.png",
+            "tags": [
+                "dividend"
+            ]
+        },
+        {
+            "chainId": 109,
+            "address": "0x65218A41Fb92637254B4f8c97448d3dF343A3064",
+            "decimals": 18,
+            "name": "DOGE KILLER",
+            "symbol": "LEASH",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/leash.png",
+            "tags": [
+                "bridge"
+            ]
+        },
+        {
+            "chainId": 109,
+            "address": "0x33cA1D9305D5bB1cbeba0440C1B0fD5e1f8C81B9",
+            "decimals": 18,
+            "name": "BONEWHALE",
+            "symbol": "BONEWHALE",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/bonewhale.png",
+            "tags": [
+                "dividend"
+            ]
+        },
+        {
+            "chainId": 109,
+            "address": "0x4FC2281639F9441F0Fcb8b6D922038277c4408c1",
+            "decimals": 18,
+            "name": "Bury",
+            "symbol": "BURY",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/bury.png",
+            "tags": [
+                "dividend"
+            ]
+        },
+        {
+            "chainId": 109,
+            "address": "0xd1509c2Aa2411b993dE76d65523F8Af96F86c943",
+            "decimals": 18,
+            "name": "ShibaPunkz",
+            "symbol": "SPUNK",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/spunkz.png",
+            "tags": [
+                "dividend"
+            ]
+        },
+        {
+            "chainId": 109,
+            "address": "0xA77241231a899b69725F2e2e092cf666286Ced7E",
+            "decimals": 18,
+            "name": "ShibWare",
+            "symbol": "ShibWare",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shibtech.png"
+        },
+
+        {
+            "chainId": 109,
+            "address": "0x89dc93C6c12CaE47aCAf4aD9305d7A442C30dBB2",
+            "decimals": 9,
+            "name": "Unification.com/xfund",
+            "symbol": "xFUND",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/xfund.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x4a54CF403B9c751b7b7177A5335E23f38f692944",
+            "decimals": 18,
+            "name": "BYTE",
+            "symbol": "BYTE",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/byte.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x165E8b1FaEFf503963f113dc81aFc49CeA2bAbA9",
+            "decimals": 18,
+            "name": "Shups Token",
+            "symbol": "SHUPS",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shups.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0xCDbe27aCb4579b1E2ef2F4Efc4c4a6f7E63933b2",
+            "decimals": 9,
+            "name": "Brick by Brick",
+            "symbol": "BRICK",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/brick.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x1fA31c850E68dAb3950b728BF1D7a43248dd1283",
+            "decimals": 18,
+            "name": "BULL",
+            "symbol": "BULL",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shibull.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x7530f1fFA6FBeC35C1f3b2f40f3243a033c99fF3",
+            "decimals": 18,
+            "name": "D-Cent Gamers",
+            "symbol": "BATTLE",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/battle.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x5212B42ef96A47Af93F3a6c801227b650EDEb12f",
+            "decimals": 18,
+            "name": "Sideshow 404",
+            "symbol": "SKULLZ",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/skullz.gif"
+        },
+        {
+            "chainId": 109,
+            "address": "0xee70777C4649B7937A86343F5a54718892572859",
+            "decimals": 9,
+            "name": "Shytoshis Coin",
+            "symbol": "Shytoshi",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shytoshi.png"
+        },
+        {
+            "chainId": 157,
+            "address": "0x41c3F37587EBcD46C0F85eF43E38BcfE1E70Ab56",
+            "decimals": 18,
+            "name": "Puppynet Wrapped BONE",
+            "symbol": "WBONE",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/wbone.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x8cC82045E761329FA13C9b0A0a31d76615fEc109",
+            "decimals": 18,
+            "name": "Corrupt Fun",
+            "symbol": "CFUN",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/cfun.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x3dAB7eD18DBd51bC5AC79013163f1129CFF5c62d",
+            "decimals": 18,
+            "name": "SHIBANA",
+            "symbol": "SHIBANA",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shibana.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x425E00BfB24796f178e733aec44e172757D0A75d",
+            "decimals": 18,
+            "name": "Hoichi",
+            "symbol": "HOICHI",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/hoichi.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x06d3625CF994808988a2800aDBb2cAAe69C0aA02",
+            "decimals": 18,
+            "name": "FATBOSHI",
+            "symbol": "FATBOSHI",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/fatboshi.png"
+        },
+        {
+            "chainId": 157,
+            "address": "0x60cd6352Ba5065E0A26BC5Fb0B6B6212DF8Ad9d9",
+            "decimals": 18,
+            "name": "ChewySwap Testnet",
+            "symbol": "CHEWY",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/chewy.png",
+            "tags": [
+                "eco2"
             ]
         }
     ],
-    "timestamp": "2024-04-13T12:36:00+00:00"
+    "timestamp": "2024-06-28T12:20:00+00:00"
+
 }
