@@ -104,9 +104,6 @@
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/usdo.png"
         },
         {
-
-        }
-        {
             "chainId": 2000,
             "address": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
             "decimals": 18,
